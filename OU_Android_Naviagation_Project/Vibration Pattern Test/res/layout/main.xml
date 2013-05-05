@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <RelativeLayout android:layout_height="wrap_content" android:id="@+id/relativeLayout1" android:layout_width="fill_parent">
+        <Button android:layout_width="wrap_content" android:id="@+id/vibrateButton" android:layout_height="wrap_content" android:text="Vibrate" android:layout_alignParentLeft="true"></Button>
+        <Button android:layout_height="wrap_content" android:id="@+id/stopButton" android:layout_width="wrap_content" android:text="Stop" android:layout_toRightOf="@+id/vibrateButton" android:layout_alignTop="@+id/vibrateButton" android:layout_alignBottom="@+id/vibrateButton"></Button>
+        <Button android:layout_height="wrap_content" android:layout_toRightOf="@+id/stopButton" android:id="@+id/clearButton" android:layout_width="wrap_content" android:text="Clear" android:layout_alignTop="@+id/stopButton" android:layout_alignBottom="@+id/stopButton"></Button>
+    </RelativeLayout>
+    <TextView android:id="@+id/textView1" android:layout_width="wrap_content" android:text="@string/vibrate_time" android:layout_height="wrap_content"></TextView>
+    <EditText android:layout_width="fill_parent" android:inputType="number" android:id="@+id/vibrationText" android:layout_height="wrap_content"></EditText>
+    <TextView android:text="Gap time in milliseconds" android:id="@+id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+    <EditText android:layout_width="fill_parent" android:id="@+id/gapText"  android:layout_height="wrap_content" android:inputType="number"></EditText>
+    <TextView android:text="Number of vibrations in a pattern" android:id="@+id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+    <EditText android:inputType="number" android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/numberText"></EditText>
+    <TextView android:text="Gap between vibrations in milliseconds" android:id="@+id/textView4" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+    <EditText android:inputType="number" android:layout_width="fill_parent" android:id="@+id/gapBetweenText" android:layout_height="wrap_content"></EditText>
+</LinearLayout>

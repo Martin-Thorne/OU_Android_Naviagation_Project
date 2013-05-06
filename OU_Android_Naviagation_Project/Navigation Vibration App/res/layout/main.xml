@@ -9,5 +9,5 @@
 	android:layout_width="fill_parent"
     android:layout_height="wrap_content" 
     android:clickable="true"
-    android:apiKey="0fRtTAseEt7esc--Svt_zEVNzbDKfc0h6hA5Hcg" />
+    android:apiKey="" /> //Add Google maps key V1 ONLY
 </LinearLayout>

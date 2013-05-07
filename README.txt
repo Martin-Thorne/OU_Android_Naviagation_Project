@@ -21,6 +21,9 @@ Gap time in milliseconds
 Number of vibrations in a pattern
 Gap between vibrations in milliseconds
 
+Image of app:
+https://dl.dropboxusercontent.com/u/17315310/app%201.jpg
+
 The second app: Navigation Vibration App
 This app displayed a map, the users position, and markers that showed the proximity alerts. As a 
 user entered a proximity alert the phone would start vibrating in a particular pattern. A message would 
@@ -44,6 +47,10 @@ Gap between vibration patterns:
 Turn next: 500 milliseconds
 Turn imminent: 1000 milliseconds
 Turn coming up: 2000 milliseconds
+
+Images of app:
+https://dl.dropboxusercontent.com/u/17315310/app%202.1.jpg
+https://dl.dropboxusercontent.com/u/17315310/app%202.2.jpg
 
 If you attempt to run this app please keep in mind the following:
 Read the NOTE below.

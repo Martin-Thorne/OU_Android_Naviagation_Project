@@ -67,7 +67,7 @@ the markers.
 * The markers/proximity alerts position is defined in code. If you wish to change these then you will have to 
 rewrite some of the code in the NavigationMain.java class.
 
-* The app only works when the screen is on. 
+* The app only works when the screen is on.
 * Vibrations may still continue, plus the phones GPS may still be on, after the app is closed. After finishing 
 with app restart your phone.
 

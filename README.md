@@ -4,6 +4,7 @@ Navigation Via Smartphone Vibration
 This repository contains the two Android apps that I built for the OU course TM470 The computing 
 and IT project. Both apps are heavily commented. This was due to me having to prove that I had an 
 understanding of the code I was creating.
+Download a PDF of the final report here: <https://dl.dropboxusercontent.com/u/17315310/TM470-EMA-Martin%20Thorne.pdf>
 
 Description of project:
 -------------------------------

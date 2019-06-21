@@ -4,7 +4,7 @@ Navigation Via Smartphone Vibration
 This repository contains the two Android apps that I built for the OU course TM470 The computing 
 and IT project. Both apps are heavily commented. This was due to me having to prove that I had an 
 understanding of the code I was creating.
-Download a PDF of the final report here: <https://dl.dropboxusercontent.com/u/17315310/TM470-EMA-Martin%20Thorne.pdf>
+Download a PDF of the final report here: https://www.dropbox.com/s/rjef3wi8g2dkwpo/TM470-EMA-Martin%20Thorne.pdf?dl=0
 
 Description of project:
 -------------------------------
@@ -27,7 +27,7 @@ the following elements:
 * Number of vibrations in a pattern
 * Gap between vibrations in milliseconds
 
-[![ScreenShot](https://dl.dropboxusercontent.com/u/17315310/app%201.jpg)](https://dl.dropboxusercontent.com/u/17315310/app%201.jpg)
+![Vibrations Pattern Screenshot](https://www.dropbox.com/s/udvxv67kmpj5pfx/app%201.jpg)
 
 The second app: Navigation Vibration App
 ------------------------------------------
@@ -54,8 +54,8 @@ Left Turn:
 * Turn imminent: 1000 milliseconds
 * Turn coming up: 2000 milliseconds
 
-[![ScreenShot](https://dl.dropboxusercontent.com/u/17315310/app%202.1.jpg)](https://dl.dropboxusercontent.com/u/17315310/app%202.1.jpg)
-[![ScreenShot](https://dl.dropboxusercontent.com/u/17315310/app%202.2.jpg)](https://dl.dropboxusercontent.com/u/17315310/app%202.2.jpg)
+![Navigation Vibration App ScreenShot1](https://www.dropbox.com/s/15s0hni0nk82ir4/app%202.1.jpg)
+![Navigation Vibration App ScreenShot2](https://www.dropbox.com/s/xy6q0skdb3wmmw6/app%202.2.jpg?)
 ----------------------------------------------------------------------------
 If you attempt to run this app please keep in mind the following:
 * Read the NOTE below.

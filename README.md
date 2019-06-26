@@ -27,6 +27,8 @@ the following elements:
 * Number of vibrations in a pattern
 * Gap between vibrations in milliseconds
 
+![Vibrations Pattern Screenshot](https://docs.google.com/uc?id=1AGmfKOfM-QjePzE-Qei_q_sRnQlsvgFo)
+
 The second app: Navigation Vibration App
 ------------------------------------------
 This app displayed a map, the users position, and markers that showed the proximity alerts. As a 
@@ -52,12 +54,15 @@ Left Turn:
 * Turn imminent: 1000 milliseconds
 * Turn coming up: 2000 milliseconds
 
+![Navigation Vibration Screenshot 1](https://docs.google.com/uc?id=1dBInG5j31_r3QEiL6HJHjluKc5R8PoFh)
+![Navigation Vibration Screenshot 2](https://docs.google.com/uc?id=1kqWzUcWfG3W_G53LJ2F0W8Q--FHerrpM)
 ----------------------------------------------------------------------------
 If you attempt to run this app please keep in mind the following:
 * Read the NOTE below.
+* These apps were created in 2012.
 * The app uses Google maps API and so needs a key to display a map properly. I have removed my key (it no 
 longer works for me). If you wish to put in your own key please note that the new V2 API key will not work, 
-it needs to be V1 only. You may still run the app without a keybut only grid lines will show.
+it needs to be V1 only. You may still run the app without a key but only grid lines will show.
 * The map will display your current position. This will probably mean that you will not see the markers for the 
 proximity alerts. Zooming out you should see red marks around Bristol. Zoom in again to see the layout of 
 the markers.
